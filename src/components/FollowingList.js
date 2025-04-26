@@ -14,6 +14,7 @@ function FollowingList() {
   const [animationProgress, setAnimationProgress] = useState(0);
 
   // Blue color theme
+  // New color
   const colors = {
     white: "#FFFFFF",
     lightBlue: "#E6F0FF",
