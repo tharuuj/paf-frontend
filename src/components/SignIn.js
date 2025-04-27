@@ -12,6 +12,8 @@ import { Link, useNavigate } from "react-router-dom";
 import Snackbar from "@mui/material/Snackbar";
 import Alert from "@mui/material/Alert";
 import signinImage from "../components/assets/images/signin.jpg";
+
+//Signingit commit -m 
 function SignIn() {
   const [snackbarOpen, setSnackbarOpen] = useState(false);
   const [snackbarMessage, setSnackbarMessage] = useState("");
