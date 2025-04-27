@@ -17,6 +17,7 @@ function FollowingAccountItem(props) {
 
   // Blue theme constants
   // coloradd 
+  
   const colors = {
     navyBlue: "#003580",
     darkBlue: "#0056D2",
