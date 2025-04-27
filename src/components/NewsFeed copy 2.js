@@ -27,6 +27,7 @@ import styles from "./styles/NewsFeed.module.css";
 function NewsFeed() {
   let navigate = useNavigate();
   // const [tabValue, setTabValue] = useState("All");
+  // const
 
   function handleClick(e) {
     navigate("/newsfeed/allaccounts");
